@@ -1,2 +1,2 @@
 # TicTacToe-Client
- TicTacToe P2P server side.
+ TicTacToe Game client side
