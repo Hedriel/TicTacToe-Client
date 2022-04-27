@@ -1,0 +1,16 @@
+C:\Users\Jarvis-PC\Desktop\Things\Repos\Cliente\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\Jarvis-PC\Desktop\Things\Repos\Cliente\Cliente\bin\Debug\Cliente.exe
+C:\Users\Jarvis-PC\Desktop\Things\Repos\Cliente\Cliente\bin\Debug\Cliente.pdb
+C:\Users\Jarvis-PC\Desktop\Things\Repos\Cliente\Cliente\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jarvis-PC\Desktop\Things\Repos\Cliente\Cliente\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jarvis-PC\Desktop\Things\Repos\Cliente\Cliente\obj\Debug\Cliente.csproj.AssemblyReference.cache
+C:\Users\Jarvis-PC\Desktop\Things\Repos\Cliente\Cliente\obj\Debug\Cliente.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jarvis-PC\Desktop\Things\Repos\Cliente\Cliente\obj\Debug\Cliente.Login.resources
+C:\Users\Jarvis-PC\Desktop\Things\Repos\Cliente\Cliente\obj\Debug\Cliente.Menu.resources
+C:\Users\Jarvis-PC\Desktop\Things\Repos\Cliente\Cliente\obj\Debug\Cliente.Modelo.Partida.resources
+C:\Users\Jarvis-PC\Desktop\Things\Repos\Cliente\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\Jarvis-PC\Desktop\Things\Repos\Cliente\Cliente\obj\Debug\Cliente.csproj.GenerateResource.cache
+C:\Users\Jarvis-PC\Desktop\Things\Repos\Cliente\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\Jarvis-PC\Desktop\Things\Repos\Cliente\Cliente\obj\Debug\Cliente.csproj.CopyComplete
+C:\Users\Jarvis-PC\Desktop\Things\Repos\Cliente\Cliente\obj\Debug\Cliente.exe
+C:\Users\Jarvis-PC\Desktop\Things\Repos\Cliente\Cliente\obj\Debug\Cliente.pdb
